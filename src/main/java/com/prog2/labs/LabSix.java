@@ -58,9 +58,9 @@ public class LabSix {
 	 * ERROR!
 	 * 
 	 * 
-	 * @param input the input string, separated with .
+	 * @param input the input string, separated with spaces and newlines (\n).
 	 *
-	 * @return result true if it is a magic square.
+	 * @return result the output string, separated with spaces and newlines (\n).
 	 */
 
 	public String arrayListProblem(String input) {
